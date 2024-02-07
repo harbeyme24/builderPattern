@@ -17,5 +17,6 @@ Optional fields: Not all customers provide complete information, but the constru
 Data consistency: Changes to user profiles after registration can cause unexpected issues due to mutable fields.
 Implement solution using the Builder Pattern to address the issue.
 # 2.) UML Diagram
+<img width="1191" alt="UML-BUILDER-PATTERN" src="https://github.com/harbeyme24/builderPattern/assets/143273418/45b1c206-e1ac-41fe-bfee-66245fdbd67c">
 
 # 3.) Source Codes Solutions
