@@ -20,3 +20,5 @@ Implement solution using the Builder Pattern to address the issue.
 <img width="1191" alt="UML-BUILDER-PATTERN" src="https://github.com/harbeyme24/builderPattern/assets/143273418/45b1c206-e1ac-41fe-bfee-66245fdbd67c">
 
 # 3.) Source Codes Solutions
+<img width="1269" alt="Screenshot 2024-02-07 at 1 32 13 PM" src="https://github.com/harbeyme24/builderPattern/assets/143273418/dd4bf962-d6ba-4996-8aaa-f58adc9ca12a">
+<img width="1269" alt="Screenshot 2024-02-07 at 1 32 28 PM" src="https://github.com/harbeyme24/builderPattern/assets/143273418/2914765a-45f0-4adf-848d-c819b6b45c2a">
